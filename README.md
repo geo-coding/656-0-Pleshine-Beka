@@ -4,10 +4,20 @@ Ndarje, rregullim, bashkim
 # 658-0 mungojne 5 pika te jashtme matjet nuk mund te maten
 <!-- ! Oborret mungese shenimeve -->
 # Pronarët
-Eshref (Rrahman) Beka 101864607
+    Eshref (Rrahman) Beka 1011864607
         9-0 Zaskok
             TEPANJE Arë(3)
             7793 (txt)  7815 (graph)    22 (dif)    88 (toleranca)
+            <!-- * mungojne matjet dyfishe dhe pika kontrolluse -->
+            <!-- ? gjendja e re -->
+            Nr.Parc	Siperfaqia	
+                9-1 	1954	m²
+                9-2 	1953	m²
+                9-3 	1954	m²
+                9-4 	1954	m²
+            Gjithsej	7815	m²
+            <!-- ! mungojne produktet, kerkesa e pales, pagesa e produkteve, pagesa e pales -->
+
         192-0
         Pleshinë
             KODRA TE PAJA   Arë(3)
