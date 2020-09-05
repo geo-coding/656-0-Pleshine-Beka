@@ -45,6 +45,10 @@ Ndarje, rregullim, bashkim
         658-0
             KODRA   Kullosë(5) 190  Arë(5) 17523 Arë(6) 6900
             24613 (txt) 24461 (graph)   -152(dif)   157 (toleranca)
+        
+        659-0
+            KODRA   Arë(5)
+            261 (txt)   266 (graph)     5(dif)      16 (toleranca)
         **
 
         729-0
