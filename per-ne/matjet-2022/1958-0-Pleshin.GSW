@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<WORK>
+<HEAD>
+<Ver></Ver>
+<Name>1958-0-Pleshin</Name>
+<Operator></Operator>
+<Instrument></Instrument>
+<Remark></Remark>
+<CreateDateTime>2022-03-24 08:56:05</CreateDateTime>
+<DxfMapFileConfig></DxfMapFileConfig>
+</HEAD>
+<WorkOption>
+<Zone></Zone>
+<ArithmeticType></ArithmeticType>
+<FileAngleFormatType>2</FileAngleFormatType>
+<StakeoutPlaySound></StakeoutPlaySound>
+<CoordinateSystemParEncrypt>0</CoordinateSystemParEncrypt>
+<UseCoordSystemType>0</UseCoordSystemType>
+<RtcmInputEllipsoid></RtcmInputEllipsoid>
+<RtcmInputProjectPar></RtcmInputProjectPar>
+<RtcmInputSevenPar></RtcmInputSevenPar>
+<RtcmInputFourPar></RtcmInputFourPar>
+<RtcmInputHeightFitting></RtcmInputHeightFitting>
+<RtcmInputVerticalPar></RtcmInputVerticalPar>
+<RtcmInputCorrectPar></RtcmInputCorrectPar>
+<RtcmPassword></RtcmPassword>
+<HuNanActiveCode></HuNanActiveCode>
+<HuNanParamFilePath></HuNanParamFilePath>
+<HuNanLibFilePath></HuNanLibFilePath>
+</WorkOption>
+<DataOption>
+<DataFileName>1958-0-Pleshin.PD</DataFileName>
+<Mode></Mode>
+<Mode_Sub></Mode_Sub>
+<DictionaryFileName></DictionaryFileName>
+</DataOption>
+</WORK>
